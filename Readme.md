@@ -62,4 +62,8 @@ python fireDetect.py
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection model.
 - OpenCV for video processing.
-```
+
+---
+
+## License 
+This Reposetory is for educational purpose only.
